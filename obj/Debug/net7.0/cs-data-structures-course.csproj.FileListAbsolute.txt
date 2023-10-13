@@ -1,0 +1,14 @@
+C:\Users\zenon\Documents\GitHub\cs-data-structures-course\bin\Debug\net7.0\cs-data-structures-course.exe
+C:\Users\zenon\Documents\GitHub\cs-data-structures-course\bin\Debug\net7.0\cs-data-structures-course.deps.json
+C:\Users\zenon\Documents\GitHub\cs-data-structures-course\bin\Debug\net7.0\cs-data-structures-course.runtimeconfig.json
+C:\Users\zenon\Documents\GitHub\cs-data-structures-course\bin\Debug\net7.0\cs-data-structures-course.dll
+C:\Users\zenon\Documents\GitHub\cs-data-structures-course\bin\Debug\net7.0\cs-data-structures-course.pdb
+C:\Users\zenon\Documents\GitHub\cs-data-structures-course\obj\Debug\net7.0\cs-data-structures-course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenon\Documents\GitHub\cs-data-structures-course\obj\Debug\net7.0\cs-data-structures-course.AssemblyInfoInputs.cache
+C:\Users\zenon\Documents\GitHub\cs-data-structures-course\obj\Debug\net7.0\cs-data-structures-course.AssemblyInfo.cs
+C:\Users\zenon\Documents\GitHub\cs-data-structures-course\obj\Debug\net7.0\cs-data-structures-course.csproj.CoreCompileInputs.cache
+C:\Users\zenon\Documents\GitHub\cs-data-structures-course\obj\Debug\net7.0\cs-data-structures-course.dll
+C:\Users\zenon\Documents\GitHub\cs-data-structures-course\obj\Debug\net7.0\refint\cs-data-structures-course.dll
+C:\Users\zenon\Documents\GitHub\cs-data-structures-course\obj\Debug\net7.0\cs-data-structures-course.pdb
+C:\Users\zenon\Documents\GitHub\cs-data-structures-course\obj\Debug\net7.0\cs-data-structures-course.genruntimeconfig.cache
+C:\Users\zenon\Documents\GitHub\cs-data-structures-course\obj\Debug\net7.0\ref\cs-data-structures-course.dll
